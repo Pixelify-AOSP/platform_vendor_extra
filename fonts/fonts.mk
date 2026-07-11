@@ -16,6 +16,7 @@ LOCAL_PATH := vendor/extra/fonts
 
 # Copy font files
 include vendor/extra/fonts/font_files.mk
+include vendor/extra/fonts/imported_fonts.mk
 -include vendor/extra/fonts/extra/extra.mk
 
 # Register custom fonts
@@ -24,18 +25,63 @@ PRODUCT_PACKAGES += \
 
 # Overlays for UI font styles
 PRODUCT_PACKAGES += \
+    FontAccuratistOverlay \
+    FontAclonicaOverlay \
+    FontAmaranteOverlay \
+    FontBariolOverlay \
+    FontCagliostroOverlay \
+    FontCoconOverlay \
+    FontComfortaaOverlay \
+    FontComicSansOverlay \
+    FontCookieRunOverlay \
+    FontCooljazzOverlay \
+    FontCoolstoryOverlay \
     FontDosisOverlay \
+    FontEvoSansOverlay \
+    FontEvolveSansOverlay \
+    FontExotwoOverlay \
+    FontFifa2018Overlay \
     FontFluidSansOverlay \
-    FontManropeOverlay \
-    FontHarmonyOSSansOverlay \
-    FontInterOverlay \
-    FontRecursiveCasualOverlay \
-    FontRecursiveLinearOverlay \
-    FontOppoSansOverlay \
-    FontLinotteOverlay \
     FontFucekOverlay \
+    FontGeneralSansOverlay \
     FontGoogleSansOverlay \
     FontGoogleSansFlexOverlay \
-    FontRookeryOverlay \
+    FontGrandHotelOverlay \
+    FontHarmonyOSSansOverlay \
+    FontHarmonySansOverlay \
+    FontIBMPlexSansOverlay \
+    FontInterOverlay \
+    FontLatoOverlay \
+    FontLinotteOverlay \
+    FontManropeOverlay \
+    FontNokiaPureOverlay \
+    FontNothingDotHeadlineOverlay \
+    FontNothingDotOverlay \
+    FontNunitoOverlay \
     FontOnePlusSansOverlay \
-    FontSanFranciscoDisplayProSourceOverlay
+    FontOneUISansOverlay \
+    FontOneplusSansOverlay \
+    FontOneplusSlateOverlay \
+    FontOppoSansOverlay \
+    FontOswaldOverlay \
+    FontPlayOverlay \
+    FontPoppinsSourceOverlay \
+    FontQuandoOverlay \
+    FontRecursiveCasualOverlay \
+    FontRecursiveLinearOverlay \
+    FontRedressedOverlay \
+    FontReemKufiOverlay \
+    FontRobotoCondensedOverlay \
+    FontRookeryOverlay \
+    FontRubikOverlay \
+    FontSamsungOneOverlay \
+    FontSanFranciscoDisplayProSourceOverlay \
+    FontSansSerifOverlay \
+    FontSansSerifProOverlay \
+    FontSonySketchOverlay \
+    FontSpaceGroteskOverlay \
+    FontStoropiaOverlay \
+    FontSurferOverlay \
+    FontUbuntuOverlay \
+    FontVolteOverlay
+

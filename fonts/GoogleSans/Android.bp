@@ -37,3 +37,10 @@ prebuilt_font {
     src: "GoogleSansFlexClock-Regular.ttf",
     product_specific: true,
 }
+
+prebuilt_font {
+    name: "GoogleSansClock-Regular.ttf",
+    src: "GoogleSansClock-Regular.ttf",
+    product_specific: true,
+}
+

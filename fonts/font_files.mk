@@ -33,6 +33,7 @@ PRODUCT_PACKAGES += \
     GoogleSans-Italic.ttf \
     GoogleSansFlex-Regular.ttf \
     GoogleSansFlexClock-Regular.ttf \
+    GoogleSansClock-Regular.ttf \
     Rookery-Regular.otf \
     Rookery-Bold.otf \
     Rookery-Italic.otf \
