@@ -48,7 +48,6 @@ PRODUCT_PACKAGES += \
     FontGoogleSansOverlay \
     FontGoogleSansFlexOverlay \
     FontGrandHotelOverlay \
-    FontHarmonyOSSansOverlay \
     FontHarmonySansOverlay \
     FontIBMPlexSansOverlay \
     FontInterOverlay \
@@ -59,7 +58,6 @@ PRODUCT_PACKAGES += \
     FontNothingDotHeadlineOverlay \
     FontNothingDotOverlay \
     FontNunitoOverlay \
-    FontOnePlusSansOverlay \
     FontOneUISansOverlay \
     FontOneplusSansOverlay \
     FontOneplusSlateOverlay \
