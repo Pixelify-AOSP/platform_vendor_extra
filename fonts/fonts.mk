@@ -33,6 +33,7 @@ PRODUCT_PACKAGES += \
     FontCoconOverlay \
     FontComfortaaOverlay \
     FontComicSansOverlay \
+    FontCircularStdOverlay \
     FontCookieRunOverlay \
     FontCooljazzOverlay \
     FontCoolstoryOverlay \

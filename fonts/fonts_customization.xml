@@ -2399,4 +2399,147 @@
     <alias name="harmonyos-sans-bold" to="harmonyos-sans" weight="700" />
     <alias name="harmonyos-sans-black" to="harmonyos-sans" weight="900" />
     <alias name="harmonyos-sans-text-medium" to="harmonyos-sans-text" weight="500" />
+
+  <!-- Circular-Std -->
+  <family customizationType="new-named-family" name="circular-std">
+    <font weight="400" style="normal">Circular-Std-Regular.ttf
+      <axis tag="GRAD" stylevalue="0"/>
+      <axis tag="opsz" stylevalue="18.0"/>
+      <axis tag="wght" stylevalue="400"/>
+    </font>
+    <font weight="500" style="normal">Circular-Std-Medium.ttf
+      <axis tag="GRAD" stylevalue="0"/>
+      <axis tag="opsz" stylevalue="18.0"/>
+      <axis tag="wght" stylevalue="500"/>
+    </font>
+    <font weight="600" style="normal">Circular-Std-Medium.ttf
+      <axis tag="GRAD" stylevalue="0"/>
+      <axis tag="opsz" stylevalue="18.0"/>
+      <axis tag="wght" stylevalue="600"/>
+    </font>
+    <font weight="700" style="normal">Circular-Std-Bold.ttf
+      <axis tag="GRAD" stylevalue="0"/>
+      <axis tag="opsz" stylevalue="18.0"/>
+      <axis tag="wght" stylevalue="700"/>
+    </font>
+    <font weight="400" style="italic">Circular-Std-Italic.ttf
+      <axis tag="GRAD" stylevalue="0"/>
+      <axis tag="opsz" stylevalue="18.0"/>
+      <axis tag="wght" stylevalue="400"/>
+    </font>
+    <font weight="500" style="italic">Circular-Std-MediumItalic.ttf
+      <axis tag="GRAD" stylevalue="0"/>
+      <axis tag="opsz" stylevalue="18.0"/>
+      <axis tag="wght" stylevalue="500"/>
+    </font>
+    <font weight="600" style="italic">Circular-Std-MediumItalic.ttf
+      <axis tag="GRAD" stylevalue="0"/>
+      <axis tag="opsz" stylevalue="18.0"/>
+      <axis tag="wght" stylevalue="600"/>
+    </font>
+    <font weight="700" style="italic">Circular-Std-BoldItalic.ttf
+      <axis tag="GRAD" stylevalue="0"/>
+      <axis tag="opsz" stylevalue="18.0"/>
+      <axis tag="wght" stylevalue="700"/>
+    </font>
+  </family>
+
+  <family customizationType="new-named-family" name="circular-std-medium">
+    <font weight="500" style="normal">Circular-Std-Medium.ttf
+      <axis tag="GRAD" stylevalue="0"/>
+      <axis tag="opsz" stylevalue="18.0"/>
+      <axis tag="wght" stylevalue="500"/>
+    </font>
+  </family>
+
+  <family customizationType="new-named-family" name="circular-std-bold">
+    <font weight="700" style="normal">Circular-Std-Bold.ttf
+      <axis tag="GRAD" stylevalue="0"/>
+      <axis tag="opsz" stylevalue="18.0"/>
+      <axis tag="wght" stylevalue="700"/>
+    </font>
+  </family>
+
+  <family customizationType="new-named-family" name="circular-std-text">
+    <font weight="400" style="normal">Circular-Std-Regular.ttf
+      <axis tag="GRAD" stylevalue="0"/>
+      <axis tag="opsz" stylevalue="17.0"/>
+      <axis tag="wght" stylevalue="400"/>
+    </font>
+    <font weight="500" style="normal">Circular-Std-Medium.ttf
+      <axis tag="GRAD" stylevalue="0"/>
+      <axis tag="opsz" stylevalue="17.0"/>
+      <axis tag="wght" stylevalue="500"/>
+    </font>
+    <font weight="600" style="normal">Circular-Std-Medium.ttf
+      <axis tag="GRAD" stylevalue="0"/>
+      <axis tag="opsz" stylevalue="17.0"/>
+      <axis tag="wght" stylevalue="600"/>
+    </font>
+    <font weight="700" style="normal">Circular-Std-Bold.ttf
+      <axis tag="GRAD" stylevalue="0"/>
+      <axis tag="opsz" stylevalue="17.0"/>
+      <axis tag="wght" stylevalue="700"/>
+    </font>
+    <font weight="400" style="italic">Circular-Std-Italic.ttf
+      <axis tag="GRAD" stylevalue="0"/>
+      <axis tag="opsz" stylevalue="17.0"/>
+      <axis tag="wght" stylevalue="400"/>
+    </font>
+    <font weight="500" style="italic">Circular-Std-MediumItalic.ttf
+      <axis tag="GRAD" stylevalue="0"/>
+      <axis tag="opsz" stylevalue="17.0"/>
+      <axis tag="wght" stylevalue="500"/>
+    </font>
+    <font weight="600" style="italic">Circular-Std-MediumItalic.ttf
+      <axis tag="GRAD" stylevalue="0"/>
+      <axis tag="opsz" stylevalue="17.0"/>
+      <axis tag="wght" stylevalue="600"/>
+    </font>
+    <font weight="700" style="italic">Circular-Std-BoldItalic.ttf
+      <axis tag="GRAD" stylevalue="0"/>
+      <axis tag="opsz" stylevalue="17.0"/>
+      <axis tag="wght" stylevalue="700"/>
+    </font>
+  </family>
+
+  <family customizationType="new-named-family" name="circular-std-text-medium">
+    <font weight="500" style="normal">Circular-Std-Medium.ttf
+      <axis tag="GRAD" stylevalue="0"/>
+      <axis tag="opsz" stylevalue="17.0"/>
+      <axis tag="wght" stylevalue="500"/>
+    </font>
+  </family>
+
+  <family customizationType="new-named-family" name="circular-std-text-bold">
+    <font weight="700" style="normal">Circular-Std-Bold.ttf
+      <axis tag="GRAD" stylevalue="0"/>
+      <axis tag="opsz" stylevalue="17.0"/>
+      <axis tag="wght" stylevalue="700"/>
+    </font>
+  </family>
+
+  <family customizationType="new-named-family" name="circular-std-text-italic">
+    <font weight="400" style="italic">Circular-Std-Italic.ttf
+      <axis tag="GRAD" stylevalue="0"/>
+      <axis tag="opsz" stylevalue="17.0"/>
+      <axis tag="wght" stylevalue="400"/>
+    </font>
+  </family>
+
+  <family customizationType="new-named-family" name="circular-std-text-medium-italic">
+    <font weight="500" style="italic">Circular-Std-MediumItalic.ttf
+      <axis tag="GRAD" stylevalue="0"/>
+      <axis tag="opsz" stylevalue="17.0"/>
+      <axis tag="wght" stylevalue="500"/>
+    </font>
+  </family>
+
+  <family customizationType="new-named-family" name="circular-std-text-bold-italic">
+    <font weight="700" style="italic">Circular-Std-BoldItalic.ttf
+      <axis tag="GRAD" stylevalue="0"/>
+      <axis tag="opsz" stylevalue="17.0"/>
+      <axis tag="wght" stylevalue="700"/>
+    </font>
+  </family>
 </fonts-modification>
