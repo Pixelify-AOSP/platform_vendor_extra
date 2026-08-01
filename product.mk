@@ -46,3 +46,6 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGE_OVERLAYS += vendor/extra/overlay/common
 PRODUCT_ENFORCE_RRO_EXCLUDED_OVERLAYS += \
     vendor/extra/overlay/common/packages/apps/Launcher3
+
+# TFLite
+$(call inherit-product, vendor/extra/misc/ax_tflite/common.mk)
